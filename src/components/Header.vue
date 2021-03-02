@@ -23,7 +23,7 @@ export default class Header extends Vue {}
   padding: 50px 100px 0px 170px;
   background-image: url('../assets/images/image-hero-desktop.jpg');
   background-repeat: no-repeat;
-  min-height: 400px;
+  min-height: 350px;
 }
 .header__bg {
   height: 20px;
